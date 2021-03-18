@@ -1,6 +1,6 @@
 {
   "description": "Friendly creatures of the sea. test", 
-  "external_link": "https://github.com/ProjectOpenSea/opensea-creatures/", 
+  "external_link": "https://github.com/tanaka-highreso/test-json", 
   "image": "https://example.com/image.png", 
-  "name": "OpenSea Creatures test"
+  "name": "OpenSea test"
 }
