@@ -7,7 +7,7 @@
     "external_url": "https://testnets.opensea.io/collection/test-0323-2-factory-v2",
     "attributes": [
         {"trait_type": "Base", "value": "Starfish" }, 
-        {"trait_type": "Eyes", "value": "Big" }, 
+        {"trait_type": "Eyes", "value": "Big A" }, 
         {"trait_type": "Mouth", "value": "Surprised" }, 
         {"trait_type": "Level", "value": 5 }, 
         {"trait_type": "Stamina", "value": 1.4 }, 
