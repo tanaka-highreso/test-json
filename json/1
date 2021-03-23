@@ -1,7 +1,8 @@
 {
-    "name": "test001",
+    "name": "test001-2",
     "description": "test",
     "external_link": null,
     "image": "https://github.com/tanaka-highreso/test-json/raw/main/image/s001-0658-CH010106H-.png",
+    "external_url": "https://github.com/tanaka-highreso/test-json/raw/main/image/s001-0658-CH010106H-.png",
     "animation_url": null
 }
