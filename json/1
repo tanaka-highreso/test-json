@@ -1,12 +1,25 @@
 {
     "name": "test001-3",
-    "description": "test A B C D",
+    "description": "test A B C ",
     "image": "https://github.com/tanaka-highreso/test-json/raw/main/image/s001-0658-CH010106H-.png",
     "external_url": "https://testnets.opensea.io/collection/test-0323-2-factory-v2",
     "attributes": [
         {"trait_type": "Base", "value": "Starfish" }, 
         {"trait_type": "Eyes", "value": "Big" }, 
         {"trait_type": "Mouth", "value": "Surprised" }, 
-        {"trait_type": "Level", "value": "5" }
+        {"trait_type": "Level", "value": 5 }, 
+        {"trait_type": "Stamina", "value": 1.4 }, 
+        {"trait_type": "Personality", "value": "Sad" }, 
+        {"display_type": "number", "trait_type": "Generation", "value": 2 }, 
+        {
+            "display_type": "boost_number", 
+            "trait_type": "Aqua Power", 
+            "value": 40
+          }, 
+          {
+            "display_type": "boost_percentage", 
+            "trait_type": "Stamina Increase", 
+            "value": 10
+          }
     ]
 }
