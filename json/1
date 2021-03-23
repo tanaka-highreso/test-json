@@ -1,12 +1,12 @@
 {
     "name": "test001-3",
-    "description": "test A B C ",
+    "description": "test A B C D",
     "image": "https://github.com/tanaka-highreso/test-json/raw/main/image/s001-0658-CH010106H-.png",
     "external_url": "https://testnets.opensea.io/collection/test-0323-2-factory-v2",
     "attributes": [
         {"trait_type": "Base", "value": "Starfish" }, 
         {"trait_type": "Eyes", "value": "Big" }, 
         {"trait_type": "Mouth", "value": "Surprised" }, 
-        {"trait_type": "Level", "value": 5 }
+        {"trait_type": "Level", "value": "5" }
     ]
 }
