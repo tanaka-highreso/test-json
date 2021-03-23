@@ -3,7 +3,6 @@
     "description": "test A",
     "image": "https://github.com/tanaka-highreso/test-json/raw/main/image/s001-0658-CH010106H-.png",
     "external_url": "https://testnets.opensea.io/collection/test-0323-2-factory-v2",
-    "animation_url": null,
     "attributes": [
         {
         "trait_type": "Base", 
