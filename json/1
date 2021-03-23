@@ -1,6 +1,6 @@
 {
     "name": "test001-3",
-    "description": "test A",
+    "description": "test A B",
     "image": "https://github.com/tanaka-highreso/test-json/raw/main/image/s001-0658-CH010106H-.png",
     "external_url": "https://testnets.opensea.io/collection/test-0323-2-factory-v2",
     "attributes": [
