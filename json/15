@@ -1,0 +1,14 @@
+{
+    "name": "HASEGAWA HINAMI",
+    "description": "",
+    "image": "https://github.com/tanaka-highreso/test-json/raw/main/image/s001-05.png",
+    "external_url": "https://testnets.opensea.io/collection/CryptSeal",
+    "attributes": [
+        {"display_type": "number","trait_type": "B", "value": 74 }, 
+        {"display_type": "number","trait_type": "W", "value": 56 }, 
+        {"display_type": "number","trait_type": "H", "value": 89 }, 
+        {"trait_type": "Jewel", "value": "RAINBOW" }, 
+        {"trait_type": "attributes", "value": "flower" }, 
+        {"trait_type": "background", "value": "roomA_015" }
+    ]
+}

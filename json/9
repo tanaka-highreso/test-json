@@ -1,0 +1,14 @@
+{
+    "name": "TAMASE KUREHA",
+    "description": "",
+    "image": "https://github.com/tanaka-highreso/test-json/raw/main/image/g001-09.png",
+    "external_url": "https://testnets.opensea.io/collection/CryptSeal",
+    "attributes": [
+        {"display_type": "number","trait_type": "B", "value": 91 }, 
+        {"display_type": "number","trait_type": "W", "value": 60 }, 
+        {"display_type": "number","trait_type": "H", "value": 85 }, 
+        {"trait_type": "Jewel", "value": "RED" }, 
+        {"trait_type": "attributes", "value": "star" }, 
+        {"trait_type": "background", "value": "roomA_009" }
+    ]
+}

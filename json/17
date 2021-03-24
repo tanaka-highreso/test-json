@@ -1,0 +1,13 @@
+{
+    "name": "MIZUHARA URURU",
+    "description": "",
+    "image": "https://github.com/tanaka-highreso/test-json/raw/main/image/s001-07.png",
+    "external_url": "https://testnets.opensea.io/collection/CryptSeal",
+    "attributes": [
+        {"display_type": "number","trait_type": "B", "value": 70 }, 
+        {"display_type": "number","trait_type": "W", "value": 50 }, 
+        {"display_type": "number","trait_type": "H", "value": 70 }, 
+        {"value": "unique" }, 
+        {"trait_type": "background", "value": "roomA_017" }
+    ]
+}

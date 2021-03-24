@@ -1,0 +1,14 @@
+{
+    "name": "TAKARA TSUKINO",
+    "description": "",
+    "image": "https://github.com/tanaka-highreso/test-json/raw/main/image/s001-01.png",
+    "external_url": "https://testnets.opensea.io/collection/CryptSeal",
+    "attributes": [
+        {"display_type": "number","trait_type": "B", "value": 89 }, 
+        {"display_type": "number","trait_type": "W", "value": 58 }, 
+        {"display_type": "number","trait_type": "H", "value": 82 }, 
+        {"trait_type": "Jewel", "value": "RAINBOW" }, 
+        {"trait_type": "attributes", "value": "star" }, 
+        {"trait_type": "background", "value": "roomA_011" }
+    ]
+}

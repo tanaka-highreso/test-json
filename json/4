@@ -1,0 +1,14 @@
+{
+    "name": "KIRISHIMA MIAKI",
+    "description": "",
+    "image": "https://github.com/tanaka-highreso/test-json/raw/main/image/g001-04.png",
+    "external_url": "https://testnets.opensea.io/collection/CryptSeal",
+    "attributes": [
+        {"display_type": "number","trait_type": "B", "value": 92 }, 
+        {"display_type": "number","trait_type": "W", "value": 58 }, 
+        {"display_type": "number","trait_type": "H", "value": 87 }, 
+        {"trait_type": "Jewel", "value": "Easter" }, 
+        {"trait_type": "attributes", "value": "sun" }, 
+        {"trait_type": "background", "value": "roomA_004" }
+    ]
+}

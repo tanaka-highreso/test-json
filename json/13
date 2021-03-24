@@ -1,0 +1,14 @@
+{
+    "name": "SAHARA AKI",
+    "description": "",
+    "image": "https://github.com/tanaka-highreso/test-json/raw/main/image/s001-03.png",
+    "external_url": "https://testnets.opensea.io/collection/CryptSeal",
+    "attributes": [
+        {"display_type": "number","trait_type": "B", "value": 92 }, 
+        {"display_type": "number","trait_type": "W", "value": 59 }, 
+        {"display_type": "number","trait_type": "H", "value": 85 }, 
+        {"trait_type": "Jewel", "value": "RED" }, 
+        {"trait_type": "attributes", "value": "flower" }, 
+        {"trait_type": "background", "value": "roomA_013" }
+    ]
+}

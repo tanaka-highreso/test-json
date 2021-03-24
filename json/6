@@ -1,0 +1,14 @@
+{
+    "name": "KUJOIN YUZURIHA",
+    "description": "",
+    "image": "https://github.com/tanaka-highreso/test-json/raw/main/image/g001-06.png",
+    "external_url": "https://testnets.opensea.io/collection/CryptSeal",
+    "attributes": [
+        {"display_type": "number","trait_type": "B", "value": 86 }, 
+        {"display_type": "number","trait_type": "W", "value": 58 }, 
+        {"display_type": "number","trait_type": "H", "value": 84 }, 
+        {"trait_type": "Jewel", "value": "BLUE" }, 
+        {"trait_type": "attributes", "value": "moon" }, 
+        {"trait_type": "background", "value": "roomA_006" }
+    ]
+}

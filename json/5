@@ -1,0 +1,14 @@
+{
+    "name": "IBUKI HIMARI",
+    "description": "",
+    "image": "https://github.com/tanaka-highreso/test-json/raw/main/image/g001-05.png",
+    "external_url": "https://testnets.opensea.io/collection/CryptSeal",
+    "attributes": [
+        {"display_type": "number","trait_type": "B", "value": 78 }, 
+        {"display_type": "number","trait_type": "W", "value": 54 }, 
+        {"display_type": "number","trait_type": "H", "value": 76 }, 
+        {"trait_type": "Jewel", "value": "RED" }, 
+        {"trait_type": "attributes", "value": "moon" }, 
+        {"trait_type": "background", "value": "roomA_005" }
+    ]
+}

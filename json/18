@@ -6,7 +6,7 @@
     "attributes": [
         {"display_type": "number","trait_type": "B", "value": 85 }, 
         {"display_type": "number","trait_type": "W", "value": 58 }, 
-        {"display_type": "number","trait_type": "H", "value": 83 }, 
+        {"display_type": "number","trait_type": "H", "value": 84 }, 
         {"trait_type": "Jewel", "value": "RAINBOW" }, 
         {"trait_type": "attributes", "value": "sun" }, 
         {"trait_type": "background", "value": "roomA_003" }
