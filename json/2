@@ -1,1 +1,25 @@
-{"name":"KIRYUIN KIRIHA","description":"","image":"https://crypt-zdf8aj6gk.softhouse-seal.com/images/special001.mp4","attributes":[{"display_type":"number","trait_type":"b","value":"92"},{"display_type":"number","trait_type":"w","value":"59"},{"display_type":"number","trait_type":"h","value":"88"},{"value":"unique"}]}
+{
+    "name": "KIRYUIN KIRIHA",
+    "description": "",
+    "image": "https://crypt-zdf8aj6gk.softhouse-seal.com/images/special001.mp4",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "b",
+            "value": "92"
+        },
+        {
+            "display_type": "number",
+            "trait_type": "w",
+            "value": "59"
+        },
+        {
+            "display_type": "number",
+            "trait_type": "h",
+            "value": "88"
+        },
+        {
+            "value": "unique"
+        }
+    ]
+}
