@@ -1,14 +1,46 @@
 {
-    "name": "KIRISHIMA RIN",
+    "name": "KIRYUIN KIRIHA",
     "description": "",
-    "image": "https://github.com/tanaka-highreso/test-json/raw/main/image/g001-01.png",
-    "external_url": "https://testnets.opensea.io/collection/CryptSeal",
+    "image": "https://crypt-zdf8aj6gk.softhouse-seal.com/images/special001.mp4",
     "attributes": [
-        {"display_type": "number","trait_type": "B", "value": 90 }, 
-        {"display_type": "number","trait_type": "W", "value": 56 }, 
-        {"display_type": "number","trait_type": "H", "value": 86 }, 
-        {"trait_type": "Jewel", "value": "RED" }, 
-        {"trait_type": "attributes", "value": "sun" }, 
-        {"trait_type": "background", "value": "roomA_001" }
+        {
+            "trait_type": "sei",
+            "value": "KIRYUIN"
+        },
+        {
+            "trait_type": "mei",
+            "value": "KIRIHA"
+        },
+        {
+            "display_type": "number",
+            "trait_type": "b",
+            "value": "92"
+        },
+        {
+            "display_type": "number",
+            "trait_type": "w",
+            "value": "59"
+        },
+        {
+            "display_type": "number",
+            "trait_type": "h",
+            "value": "88"
+        },
+        {
+            "trait_type": "jewelry",
+            "value": ""
+        },
+        {
+            "trait_type": "attr",
+            "value": ""
+        },
+        {
+            "trait_type": "unique",
+            "value": "unique"
+        },
+        {
+            "trait_type": "background",
+            "value": ""
+        }
     ]
 }
