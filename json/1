@@ -28,20 +28,8 @@
             "value": "88"
         },
         {
-            "trait_type": "jewelry",
-            "value": ""
-        },
-        {
-            "trait_type": "attr",
-            "value": ""
-        },
-        {
             "trait_type": "unique",
             "value": "unique"
         },
-        {
-            "trait_type": "background",
-            "value": ""
-        }
     ]
 }
