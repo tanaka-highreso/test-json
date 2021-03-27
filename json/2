@@ -1,14 +1,1 @@
-{
-    "name": "KATSURAGI SARA",
-    "description": "",
-    "image": "https://github.com/tanaka-highreso/test-json/raw/main/image/g001-02.png",
-    "external_url": "https://testnets.opensea.io/collection/CryptSeal",
-    "attributes": [
-        {"display_type": "number","trait_type": "B", "value": 84 }, 
-        {"display_type": "number","trait_type": "W", "value": 56 }, 
-        {"display_type": "number","trait_type": "H", "value": 82 }, 
-        {"trait_type": "Jewel", "value": "BLUE" }, 
-        {"trait_type": "attributes", "value": "sun" }, 
-        {"trait_type": "background", "value": "roomA_002" }
-    ]
-}
+{"name":"KIRYUIN KIRIHA","description":"","image":"https://crypt-zdf8aj6gk.softhouse-seal.com/images/special001.mp4","attributes":[{"display_type":"number","trait_type":"b","value":"92"},{"display_type":"number","trait_type":"w","value":"59"},{"display_type":"number","trait_type":"h","value":"88"},{"value":"unique"}]}
